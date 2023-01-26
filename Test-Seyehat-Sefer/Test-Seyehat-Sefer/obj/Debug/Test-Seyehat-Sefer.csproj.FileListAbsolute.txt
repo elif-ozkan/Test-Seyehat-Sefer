@@ -1,0 +1,11 @@
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\bin\Debug\Test-Seyehat-Sefer.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\bin\Debug\Test-Seyehat-Sefer.exe
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\bin\Debug\Test-Seyehat-Sefer.pdb
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\obj\Debug\Test-Seyehat-Sefer.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\obj\Debug\Test-Seyehat-Sefer.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\obj\Debug\Test_Seyehat_Sefer.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\obj\Debug\Test_Seyehat_Sefer.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\obj\Debug\Test-Seyehat-Sefer.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\obj\Debug\Test-Seyehat-Sefer.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\obj\Debug\Test-Seyehat-Sefer.exe
+C:\Users\elifo\Desktop\PROJELERİM\Test-Seyehat-Sefer\Test-Seyehat-Sefer\obj\Debug\Test-Seyehat-Sefer.pdb
